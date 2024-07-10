@@ -22,6 +22,7 @@
             <div class="mb-3">
               <label for="last-name" class="form-label">Lastname</label>
               <input type="text" name="last_name" id="last-name" class="form-control" required>
+              <p class="text-center"></p>
             </div>
             <div class="mb-3">
               <label for="username" class="form-label">Username</label>
