@@ -40,6 +40,7 @@
             <button type="submit" class="btn btn-success w-100">Register</button>
           </form>
           <p class="text-center small mt-3">Register already?<a href="../viwes">Login</a></p>
+          <p class="mt-3"></p>
         </div>
       </div>
     </div>
